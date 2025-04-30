@@ -1,7 +1,7 @@
 # Replication Package: Sustainability in the Field of Software Engineering — A Tertiary Study
 
 This replication package corresponds to the manuscript titled **"Sustainability in the Field of Software Engineering: A Tertiary Study."**  
-**Authors**: [Gabriel Alberto García Mireles](https://orcid.org/0000-0002-4926-0350), [Ma Angeles Moraga](https://orcid.org/0000-0002-2976-9542), [Félix García](https://orcid.org/0000-0001-7912-8614), and [Coral Calero](https://orcid.org/0000-0002-1733-106X).
+**Authors**: [Gabriel Alberto García Mireles](https://orcid.org/0000-0003-4633-7410), [Mª Ángeles Moraga](https://orcid.org/0000-0001-9165-7144), [Félix García](https://orcid.org/0000-0001-6460-0353), and [Coral Calero](https://orcid.org/0000-0003-0728-4176).
 
 ---
 
