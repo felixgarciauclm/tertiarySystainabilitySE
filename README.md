@@ -7,7 +7,7 @@ This replication package corresponds to the manuscript titled **"Sustainability 
 
 ## Appendices
 
-The file `appendixesTOSEM2023-0384R1.pdf` contains the following appendices referenced in the manuscript:
+The file [`appendixesTOSEM2023-0384R1.pdf`](./appendixesTOSEM2023-0384R1.pdf) contains the following appendices referenced in the manuscript:
 
 | Appendix | Description |
 |---------|-------------|
@@ -23,7 +23,7 @@ The file `appendixesTOSEM2023-0384R1.pdf` contains the following appendices refe
 
 ## Dataset of Included Systematic Reviews
 
-The file `dataSet80TOSEM2023-0384R1.xlsx` includes data from the 80 systematic reviews analyzed. Key sheets:
+The file [`dataSet80TOSEM2023-0384R1.xlsx`](./dataSet80TOSEM2023-0384R1.xlsx) includes data from the 80 systematic reviews analyzed.
 
 | Sheet | Content |
 |-------|---------|
@@ -37,7 +37,7 @@ The file `dataSet80TOSEM2023-0384R1.xlsx` includes data from the 80 systematic r
 
 ## Codebook
 
-The file `codeBookTOSEM2023-0384R1.xlsx` contains theme descriptions used in the synthesis of findings (Section 4.5 of the manuscript). Included sheets:
+The file [`codeBookTOSEM2023-0384R1.xlsx`](./codeBookTOSEM2023-0384R1.xlsx) contains theme descriptions used in the synthesis of findings.
 
 | Sheet | Content |
 |-------|---------|
