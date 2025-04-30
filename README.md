@@ -7,7 +7,7 @@ This replication package corresponds to the manuscript titled **"Sustainability 
 
 ## Appendices
 
-The file [`appendixesTOSEM2023-0384R1.pdf`] (./AppendixesTOSEM2023-0384R1.pdf) contains the following appendices referenced in the manuscript:
+The file [`appendixesTOSEM2023-0384R1.pdf`](./AppendixesTOSEM2023-0384R1.pdf) contains the following appendices referenced in the manuscript:
 
 | Appendix | Description |
 |---------|-------------|
